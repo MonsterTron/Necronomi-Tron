@@ -7,8 +7,8 @@ let statstotalprof;
 
 let siteLoading = true;
 let connected = false;
-const defaultSponsor = 'TGiyNohpFQcCauqqaePLtH8JSop3jBeRFn';
-let contractAddress = 'TFrBVjdpsuWQUMtjFpMxhUKg2q3oa6rgGv';
+const defaultSponsor = 'TUVRTpq9Dv7BWCUjoB9cq8XzuPTh9LqL2B';
+let contractAddress = 'TVuYBLiDUYof2XENqo74bq2SPP9qVVm2yt';
 let serverUrl = 'https://arcane-spire-90140.herokuapp.com/';
 let tronScan = 'https://tronscan.org/#/transaction/';
 
